@@ -1,0 +1,8 @@
+[
+  {
+    "name": "MyUniversity",
+    "base_url": "https://canvas.instructure.com",
+    "token": "YOUR_CANVAS_ACCESS_TOKEN",
+    "expires": "2027-06-01"
+  }
+]

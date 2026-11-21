@@ -2,11 +2,11 @@ name: canvas-bot
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
-  workflow_dispatch:
+    - cron: "*/10 * * * *"   # every 10 minutes
+  workflow_dispatch:          # lets you run it manually from the Actions tab
 
 permissions:
-  contents: write
+  contents: write             # needed to save state.json back to the repo
 
 concurrency:
   group: canvas-bot
@@ -30,7 +30,11 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           CANVAS_ACCOUNTS: ${{ secrets.CANVAS_ACCOUNTS }}
-          REMIND_HOURS: "24"
+          TIMEZONE: ${{ vars.TIMEZONE || 'Asia/Phnom_Penh' }}
+          ASSIGNMENT_REMINDER_MINUTES: ${{ vars.ASSIGNMENT_REMINDER_MINUTES || '1440,180,60' }}
+          EVENT_REMINDER_MINUTES: ${{ vars.EVENT_REMINDER_MINUTES || '30,15' }}
+          QUIET_HOURS: ${{ vars.QUIET_HOURS || '' }}
+          DIGEST_MODE: ${{ vars.DIGEST_MODE || 'true' }}
 
       - name: Save state
         run: |
