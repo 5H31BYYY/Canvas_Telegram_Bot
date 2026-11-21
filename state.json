@@ -2367,6 +2367,23 @@
    }
   }
  },
- "tg_offset": 8985523,
- "menu_set": true
+ "tg_offset": 8985528,
+ "menu_set": true,
+ "warned": [],
+ "sent_reminders": {},
+ "upcoming": [
+  {
+   "id": "AUPP:assignment:79878",
+   "plannable_id": "79878",
+   "account": "AUPP",
+   "category": "assignment",
+   "title": "Report submission",
+   "course": "INF 604 002 - Data Analysis I",
+   "due_at": "2026-11-28T16:59:59Z",
+   "url": "https://aupp.instructure.com/courses/5431/assignments/79878"
+  }
+ ],
+ "last_poll_at": "2026-11-21T18:09:13.904574+00:00",
+ "last_alert_at": null,
+ "menu_version": 2
 }
