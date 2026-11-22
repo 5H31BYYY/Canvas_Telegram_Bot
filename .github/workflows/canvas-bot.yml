@@ -2,7 +2,7 @@ name: canvas-bot
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # every 10 minutes
+    - cron: "2,17,32,47 * * * *"   # every 15 minutes (staggered off :00)
   workflow_dispatch:          # lets you run it manually from the Actions tab
 
 permissions:

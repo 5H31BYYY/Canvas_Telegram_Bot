@@ -34,7 +34,7 @@ python bot.py --test
 
 ## Running the Bot
 
-### Option 1: GitHub Actions (Every 10 Minutes — Zero PC Needed)
+### Option 1: GitHub Actions (Every 15 Minutes — Zero PC Needed)
 
 Push to GitHub and configure repository **Secrets**:
 - `TELEGRAM_BOT_TOKEN`
