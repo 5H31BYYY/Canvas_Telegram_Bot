@@ -373,7 +373,8 @@
   "AUPP:mod:144406": "2026-11-26T01:30:45.645681+00:00",
   "AUPP:mod:144407": "2026-11-26T01:30:45.645681+00:00",
   "AUPP:mod:144417": "2026-11-26T03:15:26.999757+00:00",
-  "AUPP:mod:144411": "2026-11-26T03:15:26.999757+00:00"
+  "AUPP:mod:144411": "2026-11-26T03:15:26.999757+00:00",
+  "AUPP:Submission:3379946:2026-11-26T04:40:20Z": "2026-11-26T04:45:29.196977+00:00"
  },
  "initialized": [
   "AUPP",
@@ -2446,9 +2447,19 @@
    "course": "INF 604 002 - Data Analysis I",
    "due_at": "2026-11-28T16:59:59Z",
    "url": "https://aupp.instructure.com/courses/5431/assignments/79878"
+  },
+  {
+   "id": "AUPP:assignment:79081",
+   "plannable_id": "79081",
+   "account": "AUPP",
+   "category": "assignment",
+   "title": "Final Project",
+   "course": "COSC 121 002 - Computer Science A",
+   "due_at": "2026-12-03T04:45:00Z",
+   "url": "https://aupp.instructure.com/courses/5016/assignments/79081"
   }
  ],
- "last_poll_at": "2026-11-26T03:15:26.999757+00:00",
- "last_alert_at": "2026-11-26T03:15:26.999757+00:00",
+ "last_poll_at": "2026-11-26T04:45:29.196977+00:00",
+ "last_alert_at": "2026-11-26T04:45:29.196977+00:00",
  "menu_version": 2
 }
