@@ -2473,6 +2473,50 @@
    "url": "https://aupp.instructure.com/courses/5431/assignments/79878"
   },
   {
+   "id": "AUPP:event:29239",
+   "plannable_id": "29239",
+   "account": "AUPP",
+   "category": "event",
+   "title": "Course Evaluation Open",
+   "course": "American University of Phnom Penh",
+   "starts_at": "2026-11-30T01:00:00Z",
+   "ends_at": "2026-11-30T16:59:59Z",
+   "url": "https://aupp.instructure.com/calendar?event_id=29239&include_contexts=account_1"
+  },
+  {
+   "id": "AUPP:event:29240",
+   "plannable_id": "29240",
+   "account": "AUPP",
+   "category": "event",
+   "title": "Course Evaluation Open",
+   "course": "American University of Phnom Penh",
+   "starts_at": "2026-12-01T01:00:00Z",
+   "ends_at": "2026-12-01T16:59:59Z",
+   "url": "https://aupp.instructure.com/calendar?event_id=29240&include_contexts=account_1"
+  },
+  {
+   "id": "AUPP:event:29241",
+   "plannable_id": "29241",
+   "account": "AUPP",
+   "category": "event",
+   "title": "Course Evaluation Open",
+   "course": "American University of Phnom Penh",
+   "starts_at": "2026-12-02T01:00:00Z",
+   "ends_at": "2026-12-02T16:59:59Z",
+   "url": "https://aupp.instructure.com/calendar?event_id=29241&include_contexts=account_1"
+  },
+  {
+   "id": "AUPP:event:29242",
+   "plannable_id": "29242",
+   "account": "AUPP",
+   "category": "event",
+   "title": "Course Evaluation Open",
+   "course": "American University of Phnom Penh",
+   "starts_at": "2026-12-03T01:00:00Z",
+   "ends_at": "2026-12-03T16:59:59Z",
+   "url": "https://aupp.instructure.com/calendar?event_id=29242&include_contexts=account_1"
+  },
+  {
    "id": "AUPP:assignment:79081",
    "plannable_id": "79081",
    "account": "AUPP",
@@ -2481,9 +2525,20 @@
    "course": "COSC 121 002 - Computer Science A",
    "due_at": "2026-12-03T04:45:00Z",
    "url": "https://aupp.instructure.com/courses/5016/assignments/79081"
+  },
+  {
+   "id": "AUPP:event:29243",
+   "plannable_id": "29243",
+   "account": "AUPP",
+   "category": "event",
+   "title": "Course Evaluation Open",
+   "course": "American University of Phnom Penh",
+   "starts_at": "2026-12-04T01:00:00Z",
+   "ends_at": "2026-12-04T16:59:59Z",
+   "url": "https://aupp.instructure.com/calendar?event_id=29243&include_contexts=account_1"
   }
  ],
- "last_poll_at": "2026-11-26T11:15:28.635053+00:00",
+ "last_poll_at": "2026-11-27T04:30:38.903635+00:00",
  "last_alert_at": "2026-11-26T11:15:28.635053+00:00",
  "menu_version": 2
 }
