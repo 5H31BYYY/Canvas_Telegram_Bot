@@ -2460,7 +2460,9 @@
  "tg_offset": 8985528,
  "menu_set": true,
  "warned": [],
- "sent_reminders": {},
+ "sent_reminders": {
+  "rem:AUPP:assignment:79878:2026-11-28T16:59:59Z:1440m": "2026-11-27T17:00:43.797941+00:00"
+ },
  "upcoming": [
   {
    "id": "AUPP:assignment:79878",
@@ -2536,9 +2538,19 @@
    "starts_at": "2026-12-04T01:00:00Z",
    "ends_at": "2026-12-04T16:59:59Z",
    "url": "https://aupp.instructure.com/calendar?event_id=29243&include_contexts=account_1"
+  },
+  {
+   "id": "AUPP:assignment:79508",
+   "plannable_id": "79508",
+   "account": "AUPP",
+   "category": "assignment",
+   "title": "Final Project ",
+   "course": "COSC 111 003 - Computer Science Survey",
+   "due_at": "2026-12-04T16:59:59Z",
+   "url": "https://aupp.instructure.com/courses/5013/assignments/79508"
   }
  ],
- "last_poll_at": "2026-11-27T07:00:41.975840+00:00",
- "last_alert_at": "2026-11-26T11:15:28.635053+00:00",
+ "last_poll_at": "2026-11-27T17:00:43.797941+00:00",
+ "last_alert_at": "2026-11-27T17:00:43.797941+00:00",
  "menu_version": 2
 }
