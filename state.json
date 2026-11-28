@@ -2467,16 +2467,6 @@
  },
  "upcoming": [
   {
-   "id": "AUPP:assignment:79878",
-   "plannable_id": "79878",
-   "account": "AUPP",
-   "category": "assignment",
-   "title": "Report submission",
-   "course": "INF 604 002 - Data Analysis I",
-   "due_at": "2026-11-28T16:59:59Z",
-   "url": "https://aupp.instructure.com/courses/5431/assignments/79878"
-  },
-  {
    "id": "AUPP:event:29239",
    "plannable_id": "29239",
    "account": "AUPP",
@@ -2563,7 +2553,7 @@
    "url": "https://aupp.instructure.com/calendar?event_id=29244&include_contexts=account_1"
   }
  ],
- "last_poll_at": "2026-11-28T16:00:41.436772+00:00",
+ "last_poll_at": "2026-11-28T16:45:28.488787+00:00",
  "last_alert_at": "2026-11-28T16:00:41.436772+00:00",
  "menu_version": 2
 }
