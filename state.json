@@ -2461,7 +2461,8 @@
  "menu_set": true,
  "warned": [],
  "sent_reminders": {
-  "rem:AUPP:assignment:79878:2026-11-28T16:59:59Z:1440m": "2026-11-27T17:00:43.797941+00:00"
+  "rem:AUPP:assignment:79878:2026-11-28T16:59:59Z:1440m": "2026-11-27T17:00:43.797941+00:00",
+  "rem:AUPP:assignment:79878:2026-11-28T16:59:59Z:180m": "2026-11-28T14:00:45.416863+00:00"
  },
  "upcoming": [
   {
@@ -2561,7 +2562,7 @@
    "url": "https://aupp.instructure.com/calendar?event_id=29244&include_contexts=account_1"
   }
  ],
- "last_poll_at": "2026-11-28T01:00:41.376969+00:00",
- "last_alert_at": "2026-11-27T17:00:43.797941+00:00",
+ "last_poll_at": "2026-11-28T14:00:45.416863+00:00",
+ "last_alert_at": "2026-11-28T14:00:45.416863+00:00",
  "menu_version": 2
 }
